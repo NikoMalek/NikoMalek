@@ -13,8 +13,11 @@
 
 <h2 align="left">Contáctame en:</h2>
 <p align="left">
-<a href="https:/www.linkedin.com/in/nicolas-aleuanlli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:/www.linkedin.com/in/nicolas-aleuanlli/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nicolas-aleuanlli/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
+
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/8jiou0.gif"  />
